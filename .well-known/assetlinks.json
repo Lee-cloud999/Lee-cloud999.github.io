@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.naeunlee.banana",
+    "sha256_cert_fingerprints": [
+      "E7:CB:E2:A8:E6:B1:2D:34:B1:43:AC:CB:71:E1:2C:D1:BA:75:CF:A2:59:4C:B2:C3:BC:A0:FA:31:2F:85:03:D1"
+    ]
+  }
+}]
