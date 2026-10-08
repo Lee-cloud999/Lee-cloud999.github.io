@@ -1,1 +1,23 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.naeunlee.banana","sha256_cert_fingerprints":["E7:CB:E2:A8:E6:B1:2D:34:B1:43:AC:CB:71:E1:2C:D1:BA:75:CF:A2:59:4C:B2:C3:BC:A0:FA:31:2F:85:03:D1","E2:B4:C1:74:02:F9:52:91:30:46:F9:C7:A4:40:FB:58:5C:2B:AC:8D:0A:58:F0:77:31:E6:1F:F8:82:2F:53:5F"]}}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.naeunlee.banana",
+      "sha256_cert_fingerprints": [
+        "E7:CB:E2:A8:E6:B1:2D:34:B1:43:AC:CB:71:E1:2C:D1:BA:75:CF:A2:59:4C:B2:C3:BC:A0:FA:31:2F:85:03:D1",
+        "E2:B4:C1:74:02:F9:52:91:30:46:F9:C7:A4:40:FB:58:5C:2B:AC:8D:0A:58:F0:77:31:E6:1F:F8:82:2F:53:5F"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yeobaek.diary",
+      "sha256_cert_fingerprints": [
+        "DF:9B:CD:6F:74:46:EA:20:40:97:D5:44:CF:E2:1E:82:6D:03:4B:B7:6B:CD:76:41:2D:F9:19:B8:7A:6B:1C:E7"
+      ]
+    }
+  }
+]
