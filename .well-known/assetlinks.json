@@ -1,6 +1,8 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.naeunlee.banana",
@@ -11,12 +13,26 @@
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.yeobaek.diary",
       "sha256_cert_fingerprints": [
         "DF:9B:CD:6F:74:46:EA:20:40:97:D5:44:CF:E2:1E:82:6D:03:4B:B7:6B:CD:76:41:2D:F9:19:B8:7A:6B:1C:E7"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.leecloud999.jellypop",
+      "sha256_cert_fingerprints": [
+        "8E:78:BD:B1:F6:62:84:E2:09:F0:4A:1C:F3:A8:11:5B:A1:7D:86:F6:01:2A:63:EA:B6:4F:54:6F:29:C1:C5:98"
       ]
     }
   }
